@@ -17,7 +17,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     @yield('tittle')
-    <title>Toko Elektronik</title>
+    <title>BaRel Co</title>
 
 
 
